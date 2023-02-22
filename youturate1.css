@@ -1,0 +1,48 @@
+.header
+{
+	background-color : black;
+	text-align : center;
+	color : grey;
+}
+#desc
+{
+ text-align : center;
+ }
+ 
+ .search
+ {
+	 position : absolute;
+	 right : 600px;
+	 height : 20px;
+ }
+ .sr
+ {
+	 height : 30px;
+	position : absolute;
+	right : 530px;
+ }
+#b
+{
+	color : darkblue;
+ position : absolute;
+ right : 500px;
+ }
+ .opt
+ {
+  width : 50px;
+  height : 50px;
+  position: absolute;
+  left : 10px;
+ }
+ @keyframes bg
+ {
+  from{background-color: grey;}
+  to{background-color: orange;}
+ }
+ .sd
+ {
+	 width: 70px;
+	 height: 20px;
+	 position: absolute;
+	 right: 10px;
+ }
